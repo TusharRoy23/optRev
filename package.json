@@ -1,0 +1,24 @@
+{
+  "name": "optRev",
+  "version": "1.0.0",
+  "description": "exam session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exTwo": "node exerciseTwo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TusharRoy23/optRev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TusharRoy23/optRev/issues"
+  },
+  "homepage": "https://github.com/TusharRoy23/optRev#readme",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0"
+  }
+}
