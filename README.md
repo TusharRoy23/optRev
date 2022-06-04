@@ -1,4 +1,4 @@
-# To run exercise 2 & 3
+# The repository contains exercise 1 & 2.
 
 ```
 # To install
